@@ -196,7 +196,7 @@ GET http://localhost:5050/api/passengers/search?name=jack
 
 Below is a screenshot of the Titanic Passenger Search UI:
 
-![Titanic Passenger Search UI](https://user-images.githubusercontent.com/your-screenshot-path/titanic-ui-screenshot.png)
+![Titanic Passenger Search UI](/Users/user/Desktop/Developer/jupyter/Titanic-Details/Screenshot.png)
 
 **Description:**
 
