@@ -206,22 +206,6 @@ Below is a screenshot of the Titanic Passenger Search UI:
 
 This interface provides a fast, interactive way to explore Titanic passenger data.
 
-**Description:**
-
-- The search bar allows users to type a passenger's name (e.g., "jad").
-- The results list displays matching passengers with their details:
-  - **Name** (bold)
-  - Age
-  - Status (Survived/Died)
-  - Sex
-  - Pclass (Passenger class)
-  - Fare
-  - Cabin
- 
- ---
-
-This interface provides a fast, interactive way to explore Titanic passenger data.
-
 ---
 This interface provides a fast, interactive way to explore Titanic passenger data.
 
