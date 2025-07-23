@@ -30,6 +30,11 @@ A full-stack web application for exploring Titanic passenger data, built with a 
     - [3. General Data Plot](#3-general-data-plot)
   - [User Interface](#user-interface)
   - [License](#license)
+  - [User Interface](#user-interface-1)
+  - [Data Visualizations](#data-visualizations-1)
+    - [1. Survival Count](#1-survival-count-1)
+    - [2. Age Distribution](#2-age-distribution-1)
+    - [3. General Data Plot](#3-general-data-plot-1)
 
 ---
 
@@ -214,5 +219,49 @@ This interface provides a fast, interactive way to explore Titanic passenger dat
 This project is for educational purposes.
 
 ---
+## User Interface
 
+Below is a screenshot of the Titanic Passenger Search UI:
+
+![Titanic Passenger Search UI](./attachments/6e2c6e7b-9e3c-4e2d-8a7e-2e2e8e2b1e2f.png)
+
+**Description:**
+
+- The search bar allows users to type a passenger's name (e.g., "jad").
+- The results list displays matching passengers with their details:
+  - **Name** (bold)
+  - Age
+  - Status (Survived/Died)
+  - Sex
+  - Pclass (Passenger class)
+  - Fare
+  - Cabin
+
+This interface provides a fast, interactive way to explore Titanic passenger data.
+
+---
+
+## Data Visualizations
+
+### 1. Survival Count
+
+![Survival Count](python/output/survival.png)
+
+*This bar chart shows the number of passengers who survived versus those who died. It provides a quick overview of the overall survival rate on the Titanic.*
+
+---
+
+### 2. Age Distribution
+
+![Age Distribution](python/output/age_distribution.png)
+
+*This histogram displays the distribution of passenger ages. The KDE curve overlays the histogram to show the density of ages among all passengers.*
+
+---
+
+### 3. General Data Plot
+
+![General Data Plot](python/output/plot.png)
+
+*This plot provides a general visualization of the dataset, which can be customized further for
 *For any questions or contributions, please open an issue or pull request.*
