@@ -207,9 +207,6 @@ Below is a screenshot of the Titanic Passenger Search UI:
 This interface provides a fast, interactive way to explore Titanic passenger data.
 
 ---
-This interface provides a fast, interactive way to explore Titanic passenger data.
-
----
 
 ## License
 
