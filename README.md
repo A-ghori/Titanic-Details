@@ -1,6 +1,8 @@
 # Titanic-Details
 
 A full-stack web application for exploring Titanic passenger data, built with a Node.js/Express backend, React frontend, and Python data analysis. This project allows users to search for Titanic passengers and visualize survival statistics.
+Here I focused only connections between frontend with backend and python as well with optimized result search and showcase the result with min time I also focused on the data visualization via Matplotlib and Seaborn lib connects with realtime dataset (json) format totally handeled and showcase the GRAPHS. 
+My ultimate goal was smooth connections and understanding the working [Rather Than The Fancy GUI's] 
 
 ---
 
