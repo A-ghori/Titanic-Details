@@ -29,8 +29,6 @@ A full-stack web application for exploring Titanic passenger data, built with a 
     - [2. Age Distribution](#2-age-distribution)
     - [3. General Data Plot](#3-general-data-plot)
   - [User Interface](#user-interface)
-  - [License](#license)
-  - [User Interface](#user-interface-1)
   - [Data Visualizations](#data-visualizations-1)
     - [1. Survival Count](#1-survival-count-1)
     - [2. Age Distribution](#2-age-distribution-1)
@@ -191,12 +189,11 @@ GET http://localhost:5050/api/passengers/search?name=jack
 *This plot provides a general visualization of the dataset, which can be customized further for deeper insights.*
 
 ---
-
 ## User Interface
 
 Below is a screenshot of the Titanic Passenger Search UI:
 
-![Titanic Passenger Search UI](/Users/user/Desktop/Developer/jupyter/Titanic-Details/Screenshot.png)
+![Titanic Passenger Search UI](./Screenshot.png)
 
 **Description:**
 
@@ -211,19 +208,6 @@ Below is a screenshot of the Titanic Passenger Search UI:
   - Cabin
 
 This interface provides a fast, interactive way to explore Titanic passenger data.
-
----
-
-## License
-
-This project is for educational purposes.
-
----
-## User Interface
-
-Below is a screenshot of the Titanic Passenger Search UI:
-
-![Titanic Passenger Search UI](./attachments/6e2c6e7b-9e3c-4e2d-8a7e-2e2e8e2b1e2f.png)
 
 **Description:**
 
